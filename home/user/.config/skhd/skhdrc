@@ -86,4 +86,4 @@ cmd - d : skhd -k "cmd - space"
 # load extra configs
 .load "ctrlkeyrc"
 .load "ddtermrc"
-.load "yabairc"
+# .load "yabairc"
